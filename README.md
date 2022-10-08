@@ -4,7 +4,7 @@
 
 ![Use the Table of Contents Feature](images/readme.png)
 
-Tip Use the table of contents feature!
+Tip! Use the table of contents feature!
 
 ---
 
