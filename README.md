@@ -1,7 +1,9 @@
 # Top Cards in Idoly Pride
 
 *Opinion of @tokanada#4423 | Updated 10/08/2022*
+
 ![Use the Table of Contents Feature](images/readme.png)
+
 TIP! Use the table of contents feature!
 ---
 
