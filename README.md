@@ -18,7 +18,7 @@ In addition, I've decided to rate Initial Cards a bit more favorly compared to s
 
 Parts of this list has also been influenced by the current/previous VENUS Race Event. Please keep this in mind.
 
-Also, a sidenote. I left out most of the 2, 3, and 4 star cards because I do not know about the viability of most them. However, the ones I have listed to see occasional use.
+Also, a sidenote. I left out most of the 2, 3, and 4 star cards because I do not know about the viability of most them. However, the ones I have listed see occasional use.
 
 ### Tier List Tiers
 
