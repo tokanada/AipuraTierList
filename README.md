@@ -22,22 +22,15 @@ Also, a sidenote. I left out most of the 2, 3, and 4 star cards because I do not
 
 ### Tier List Tiers
 
-I've decided to divide this tier list into the following tiers.
-
-1. SS Tier - These cards are the most commonly used and see consistent success
-
-2. S Tier - These cards are consistently used, but may or may not have substitutes
-
-3. A Tier - These cards offer near the same viability as the S tier, but see less success
-
-4. B Tier - These cards are often used in niche teams and may require specific team building to fully utilize them
-
-5. C Tier - These cards are rarely used but may show up occasionally in teams
-
-6. D Tier - I literally never see these cards in use
-
-7. ?? Tier - These cards are either too new or I simply don't know enough about them. This could be due to their nicheness or even their inviability in the meta.
-
+| Tier        | Explanation                                                                                                                                          |
+| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **SS Tier** | These cards are the most commonly used and see consistent success                                                                                    |
+| **S Tier**  | These cards are consistently used, but may or may not have substitutes                                                                               |
+| **A Tier**  | These cards offer near the same viability as the S tier, but see less success                                                                        |
+| **B Tier**  | These cards are often used in niche teams and may require specific team building to fully utilize them                                               |
+| **C Tier**  | These cards are rarely used but may show up occasionally in teams                                                                                    |
+| **D Tier**  | I literally never see these cards in use                                                                                                             |
+| **?? Tier** | These cards are either too new or I simply don't know enough about them. This could be due to their nicheness or even their inviability in the meta. |
 
 
 And so, without further ado.
