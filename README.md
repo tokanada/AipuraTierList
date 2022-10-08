@@ -71,6 +71,7 @@ And so, without further ado.
 | **Initial Shizuku**     | *The other card with Combo Keep that allows unique teambuilding opportunities*                              |
 | **Kokoro Distance Rei** | *Double AA Visual Scorer for those still very annoying songs, plus her abilities scales well in High Score* |
 | **Sister Kokoro**       | *Her passive increase your team's Dance for an easier PvP clear. A rare skill to have*                      |
+| **Valentine Ai**        | *Used primarily for her Cooldown Reduction skill in niche situations*                        |
 
 ---
 
@@ -125,7 +126,6 @@ And so, without further ado.
 | **Swimsuit Aoi**                       | *Her innate Crit Rate increase and her passive Score Up & Dance buff makes her great in High Score as a Scorer*                                                                                                 |
 | **Sun Haruko**                         | *With careful teambuilding you can take advantage of her buff transfer ability to center. Useful in High Score*                                                                                                 |
 | **Swimsuit Suzu**                      | *Used primarily for her Cooldown Reduction skill in niche situations*                                                                                                                                           |
-| **Valentine Ai**                       | *Used primarily for her Cooldown Reduction skill in niche situations*                                                                                                                                           |
 | **Zombie Rio**                         | *Good Dance Scorer who's at her strongest in PvP*                                                                                                                                                               |
 
 ---
