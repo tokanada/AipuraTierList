@@ -71,7 +71,7 @@ And so, without further ado.
 | **Initial Shizuku**     | *The other card with Combo Keep that allows unique teambuilding opportunities*                              |
 | **Kokoro Distance Rei** | *Double AA Visual Scorer for those still very annoying songs, plus her abilities scales well in High Score* |
 | **Sister Kokoro**       | *Her passive increase your team's Dance for an easier PvP clear. A rare skill to have*                      |
-| **Valentine Ai**        | *Used primarily for her Cooldown Reduction skill in niche situations*                        |
+| **Valentine Ai**        | *Useful for reducing Cooldowns but also provides a big Crit Rate buff for your Scorers. She also decreases the Dance of your opponent center. Good for both High Score and PvP*                        |
 
 ---
 
