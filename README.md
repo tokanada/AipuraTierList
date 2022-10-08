@@ -90,7 +90,6 @@ And so, without further ado.
 | **Initial Mana**              | *Good, easy to use Vocal Scorer unfortunately overshadowed by Initial Sakura. Good for High Score when Sakura refuses to crit, and for teams that take advantage of her Tension Passive*                   |
 | **Initial Nagisa**            | *Although rarely used in High Score and PvP, she is the best unit for Tours*                                                                                                                               |
 | **Initial Rui**               | *A buffer that gives your team a modest Vocal increase, but with a passive that Strengthens your buffs on your Scorers for High Score and occasionally PvP*                                                |
-
 | **Initial Yu**                | *Her passive clears any debuffs on your other unit members, very useful in PvP*                                                                                                                            |
 | **Kokoro Distance Mei**                | *With the right teambuilding her SP skill can hit hard*                                                                                                                                                         |
 | **Miku Event Yu (2 Star)**    | *Her passive increases the Dance on any Supporters with a Dance attribute. Pairs well with Initial Kana in PvP. She also possesses good skills for High Score*                                             |
