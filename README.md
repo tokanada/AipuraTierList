@@ -10,7 +10,7 @@ Tip Use the table of contents feature!
 
 ## A brief explanation
 
-I wo make this tier list, firstly, to help other players decide on which cards to spent their hard-earned diamonds on. However, I also wanted to see which cards are most commonly used and which cards have been left behind in the meta. This tier list is **judged by my own personal experience** playing the game and seeing which **cards I see the most in both PvP and Regular High Score Lives.** Specialized and niche cards are positioned lower on this tier list while **cards that see action in both, PvP and High Score, are scored higher.** Parts of this list has also been influenced by the current/previous VENUS Race Event. Please keep this in mind.
+I wanted to make this tier list, firstly, to help other players decide on which cards to spent their hard-earned diamonds on. However, I also wanted to see which cards are most commonly used and which cards have been left behind in the meta. This tier list is **judged by my own personal experience** playing the game and seeing which **cards I see the most in both PvP and Regular High Score Lives.** Specialized and niche cards are positioned lower on this tier list while **cards that see action in both, PvP and High Score, are scored higher.** Parts of this list has also been influenced by the current/previous VENUS Race Event. Please keep this in mind.
 
 
 
